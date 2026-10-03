@@ -8,7 +8,7 @@ O objetivo principal deste projeto foi criar um relatório financeiro interativo
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 * **Power BI Desktop**: Construção do modelo de dados e visualizações.
 * **Microsoft Excel**: Fonte de dados base (`Financial Sample.xlsx`).
-* **GitHub**: Controlo de versão e hospedagem do código/projeto.
+* **GitHub**: Controle de versão e hospedagem do código/projeto.
 
 ## 📈 Funcionalidades do Relatório
 * **KPIs Principais**: Cartões de resumo com o *Total de Vendas* e *Total de Lucro*.
